@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blind Creators"
 subtitle: "Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 author: "Jamal Mazrui"
