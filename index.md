@@ -10,8 +10,6 @@ abstract: "A consolidated directory of 127 people who are blind or have low visi
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
-# Blind Creators
-
 ## Introduction {#introduction}
 
 This directory brings together people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. It consolidates three companion directories — [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/), [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/) — into a single alphabetical listing. Two related directories list works rather than people, with no limit per person: [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/). It is meant as a resource for aspiring blind creators and as a way to find and reach the people listed.
