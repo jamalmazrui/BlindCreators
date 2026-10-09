@@ -6,7 +6,7 @@ date: "October 2026"
 lang: "en-US"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 125 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 127 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -24,7 +24,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 125 people in all. Of these, 60 appear as book authors, 39 as app developers, and 42 as presenters. Those figures add up to more than 125 because 14 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Twelve of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 127 people in all. Of these, 61 appear as book authors, 40 as app developers, and 42 as presenters. Those figures add up to more than 127 because 14 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Twelve of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -35,6 +35,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Kirk Adams](#cr-adams-kirk)
 - [Nicholas Adams](#cr-adams-nicholas)
 - [Peter Altschul](#cr-altschul)
+- [Gianluca Apollaro](#cr-apollaro)
 - [Taylor Arndt](#cr-arndt)
 - [Jeff Bishop](#cr-bishop)
 - [Amy Bovaird](#cr-bovaird)
@@ -98,6 +99,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Georgina Kleege](#cr-kleege)
 - [Ryan Knighton](#cr-knighton)
 - [Stephen Kuusisto](#cr-kuusisto)
+- [Dan Kysor](#cr-kysor)
 - [Bobbi LaChance](#cr-lachance)
 - [Pete Lane](#cr-lane)
 - [Doug Lee](#cr-lee-doug)
@@ -209,6 +211,18 @@ Profiles:
 - [Riding Elephants: Creating Common Ground Where Contention Rules (2021)](https://www.amazon.com/dp/B08XPW3LKK) — Brief essays arguing that common ground at home, at work, and in faith communities comes from guiding our unruly emotions with patience and deliberate thought.
 - [Breaking It Down and Connecting the Dots: Creating Common Ground Where Contention Rules (2017)](https://www.amazon.com/dp/B079KH2W5B) — Essays on finding common ground and working through conflict in a divided world.
 - [Breaking Barriers: Working and Loving While Blind (2012)](https://www.amazon.com/Breaking-Barriers-Working-Loving-While-ebook/dp/B07957T2JX) — A memoir of building a career and finding love as a man blind since birth, alongside the five guide dogs who shared the journey.
+
+## Gianluca Apollaro {#cr-apollaro}
+
+An Italian developer, described by the Italian Union of the Blind and Partially Sighted as blind, who has built music-writing software for blind musicians.
+
+Profiles:
+
+- [GitHub](https://github.com/GianlucaApollaro)
+
+### Apps
+
+- [GitHub Downloader](https://github.com/GianlucaApollaro/Github-Downloader) — A Windows desktop app, built with Python and wxPython, for searching a GitHub repository's releases and downloading their files, designed for NVDA and JAWS, with keyboard shortcuts and English, Italian and Spanish interfaces. Its README says it was built with AI-assisted "vibe coding".
 
 ## Taylor Arndt {#cr-arndt}
 
@@ -1081,6 +1095,14 @@ Profiles:
 - [Have Dog, Will Travel: A Poet's Journey (2018)](https://www.amazon.com/Have-Dog-Will-Travel-Journey/dp/1476753598) — A lyrical memoir about independence and the bond with a first guide dog.
 - [Letters to Borges (2013)](https://www.amazon.com/Letters-Borges-Stephen-Kuusisto-ebook/dp/B00B6UB5NO) — Poems addressed to the blind writer Jorge Luis Borges as a traveler's letters from shifting cities, where blindness opens onto invented landscapes.
 
+## Dan Kysor {#cr-kysor}
+
+A blind author and longtime disability rights advocate, once a disability rights reporter for Pacifica Radio in Berkeley; his memoir is *Blind Like Me: The Danny Kysor Story*.
+
+### Books
+
+- [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World (2026)](https://books.apple.com/us/audiobook/recreating-yourself-recreation-options-for-blind-and/id6779771824) — A guide to recreation for blind and visually impaired children and adults: sports such as baseball, basketball and skiing adapted with sound cues, tactile markers and sighted guides; hobbies such as amateur radio and knitting; and the equipment makers, organizations and community programs that support them. A revised and expanded second edition was announced in October 2026.
+
 ## Bobbi LaChance {#cr-lachance}
 
 A romance novelist.
@@ -1830,7 +1852,7 @@ Profiles:
 
 ## Conclusion {#conclusion}
 
-Read together, the 125 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
+Read together, the 127 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
 
 The 14 people who appear in more than one category are worth noticing. The lines between author, developer, and presenter are thin: someone who builds a screen-reader tool often documents it in a book and demonstrates it on a podcast. Assistive technology in particular runs through all three categories at once, as subject, as tool, and as the thing being taught.
 
