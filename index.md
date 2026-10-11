@@ -4,6 +4,8 @@ subtitle: "Authoring Books, Developing Apps, or Making Presentations While Blind
 author: "Jamal Mazrui"
 date: "October 2026"
 lang: "en-US"
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
 abstract: "A consolidated directory of 127 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
@@ -12,9 +14,11 @@ keywords: [blindness, low vision, accessibility, blind authors, blind developers
 
 ## Introduction {#introduction}
 
-This directory brings together people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. It consolidates three companion directories — [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/), [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/) — into a single alphabetical listing. Two related directories list works rather than people, with no limit per person: [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/). It is meant as a resource for aspiring blind creators and as a way to find and reach the people listed.
+This directory brings together people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. It consolidates three companion directories — [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/), [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/) — into a single alphabetical listing. It is meant as a resource for aspiring blind creators and as a way to find and reach the people listed.
 
 Creators are listed alphabetically by last name as second-level headings, each giving the person’s full name. Under each name is a bulleted “Profiles:” list, in alphabetical order by label, linking to whatever pages are available, such as a personal website, Amazon, GitHub, Goodreads, LinkedIn, or Wikipedia. Then come up to three subsections — Apps, Books, and Presentations — and a subsection appears only when that person has work in it. Each subsection lists up to three works, most significant or most recent first, with a link to where the work can be reached and a one-line description.
+
+Each listed work belongs to its creator. This directory's own text is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 A person qualifies in a category on these terms:
 
@@ -224,7 +228,7 @@ Profiles:
 
 ## Taylor Arndt {#cr-arndt}
 
-Developer and Chief Operating Officer at Techopolis who builds Swift and web apps with accessibility designed in from the start.
+Developer and Chief Operating Officer at Techopolis who builds Swift and web apps with accessibility designed in from the start, and co-leads the Accessibility Agents project for AI coding tools with Jeff Bishop.
 
 Profiles:
 
@@ -234,7 +238,7 @@ Profiles:
 ### Apps
 
 - [Start Testing](https://starttesting.net/) — A fully accessible project management platform for organizations, covering projects, tasks, bugs, features, milestones, reviews, releases, and client collaboration, that keyboard and screen reader users can work in throughout; she built it at Techopolis.
-- [Swift Agents](https://github.com/Techopolis/swift-agents) — Sixteen specialized Swift agents for Claude Code and GitHub Copilot in Visual Studio Code, published by Techopolis, that enforce Swift 6.2 concurrency, SwiftUI, Foundation Models, VoiceOver accessibility, security, and App Store compliance; free and MIT-licensed, with a one-command install.
+- [Swift Agents](https://github.com/Techopolis/swift-agents) — Sixteen specialized Swift agents for Claude Code and GitHub Copilot in Visual Studio Code, published by Techopolis, that enforce Swift 6.2 concurrency, SwiftUI, Foundation Models, VoiceOver accessibility, security, and App Store compliance; free and MIT-licensed, with a one-command install. Formerly named swift-agent-team.
 - [wx-accessible-webview](https://github.com/Community-Access/wx-accessible-webview) — A wxPython library, installable with `pip install wx-accessible-webview`, that makes embedded web views report correctly to screen readers such as JAWS and NVDA, solving a long-standing accessibility gap for blind developers building Python desktop apps. Also published on PyPI.
 
 ### Books
@@ -1211,6 +1215,7 @@ Profiles:
 
 - [Get Cracking with Chrome for Windows (2019)](https://www.techforblind.us/get-cracking-with-chrome-for-windows/) — A practical guide to using the Chrome browser efficiently with a screen reader.
 - [Windows Keyboard Power User Guide (2019)](https://www.techforblind.us/) — Keyboard commands and customizations across Windows, JAWS, and Microsoft Word for faster, more effective screen-reader use.
+- [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator (2020)](https://shop.nbp.org/products/windows-screen-reader-keystroke-compendium-2024-update) — The keystrokes of JAWS, NVDA, and Narrator in one volume, for general use, web and app browsing, and Microsoft Office, updated in 2024.
 
 ## Jamal Mazrui {#cr-mazrui}
 
@@ -1230,7 +1235,7 @@ Profiles:
 
 ### Books
 
-- [Blind Vibe Coding: Building Apps Nonvisually with AI (2026)](https://www.amazon.com/dp/B0HLVK4H3W) — Sixteen hands-on tutorials for screen reader users who want to build their own apps with help from AI, from a talking timer in a chat window to Windows programs, NVDA add-ons, browser extensions and phone apps, with a nonvisual release checklist and a glossary.
+- [Blind Vibe Coding: Building Apps Nonvisually with AI (2026)](https://www.amazon.com/dp/B0HLVK4H3W) — Sixteen hands-on tutorials for screen reader users who want to build their own apps with help from AI, from a talking timer in a chat window to Windows programs, NVDA add-ons, browser extensions, and phone apps.
 - [Strange Truths: Objective Stories that Challenge Our Understanding of the World (2026)](https://www.amazon.com/dp/B0GYBYZKR3) — An omnibus that gathers the author's Strange Truths series of accessible books on science, history, and the limits of human knowledge.
 - [Mastery in Nonvisual Accomplishment: Among the Greatest Blind Persons of All Time (2026)](https://www.amazon.com/dp/B0DPSQXGN9) — Profiles of some of the greatest blind achievers across many fields.
 
@@ -1856,4 +1861,4 @@ The 14 people who appear in more than one category are worth noticing. The lines
 
 The directory is deliberately bounded. It covers English-language work, it counts sole-authored books rather than collaborations, it counts apps with recent development activity rather than abandoned ones, and it counts presenters who lead in their own right. Those limits mean many worthy creators fall outside any single edition; the boundaries are meant to keep each entry verifiable, not to mark the edge of what blind people create.
 
-For the fuller treatment of any one field — additional works, appendices grouping books, apps, and media by type — see the companion directories: [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/), [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/). For every qualifying app or book, see [Blind Apps](https://jamalmazrui.github.io/BlindApps/) and [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
+For the fuller treatment of any one field — additional works, appendices grouping books, apps, and media by type — see the companion directories: [Blind Authors](https://jamalmazrui.github.io/BlindAuthors/), [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/), and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/).
