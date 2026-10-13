@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 127 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
 lang: "en-US"
@@ -33,6 +33,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 ## Table of Contents {#table-of-contents}
 
 - [Introduction](#introduction)
+- [By the Numbers](#by-the-numbers)
 - [Tony Acosta](#cr-acosta)
 - [Kirk Adams](#cr-adams-kirk)
 - [Nicholas Adams](#cr-adams-nicholas)
@@ -161,6 +162,11 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Kristen Witucki](#cr-witucki)
 - [David Woodbridge](#cr-woodbridge)
 - [Conclusion](#conclusion)
+
+## By the Numbers {#by-the-numbers}
+
+- 127 creators: 61 authors, 40 developers and 42 presenters.
+- 12 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
 
