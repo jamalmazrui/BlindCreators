@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 127 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 132 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
 lang: "en-US"
@@ -8,7 +8,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 127 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 132 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -26,7 +26,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 127 people in all. Of these, 61 appear as book authors, 40 as app developers, and 42 as presenters. Those figures add up to more than 127 because 14 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Twelve of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 132 people in all. Of these, 61 appear as book authors, 42 as app developers, and 46 as presenters. Those figures add up to more than 132 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -66,12 +66,15 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Tommy "The Blind Film Critic" Edison](#cr-edison)
 - [Lucy Edwards](#cr-edwards-lucy)
 - [Paul Edwards](#cr-edwards-paul)
+- [Ricky Enger](#cr-enger)
+- [Debra Erickson](#cr-erickson)
 - [Liam Erven](#cr-erven)
 - [David L. Faucheux](#cr-faucheux)
 - [Michael Feir](#cr-feir)
 - [Chancey Fleet](#cr-fleet)
 - [Kelly Ford](#cr-ford)
 - [Chad E. Foster](#cr-foster)
+- [Sriram Ganesh](#cr-ganesh)
 - [Bryan Garaventa](#cr-garaventa)
 - [Tony Gebhard](#cr-gebhard)
 - [Quin Gillespie](#cr-gillespie)
@@ -135,10 +138,12 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Shaun Preece](#cr-preece)
 - [Mika Pyyhkala](#cr-pyyhkala)
 - [T. V. Raman](#cr-raman)
+- [Desiree Renae](#cr-renae)
 - [Mark Riccobono](#cr-riccobono)
 - [Derek Riemer](#cr-riemer)
 - [Maud Rowell](#cr-rowell)
 - [Lisa Salinger](#cr-salinger)
+- [Marco Salsiccia](#cr-salsiccia)
 - [Fredric K. Schroeder](#cr-schroeder)
 - [Steven Scott](#cr-scott)
 - [Sam Seavey](#cr-seavey)
@@ -165,8 +170,8 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 127 creators: 61 authors, 40 developers and 42 presenters.
-- 12 people work in two of the three ways, and 2 people in all three.
+- 132 creators: 61 authors, 42 developers and 46 presenters.
+- 13 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
 
@@ -605,6 +610,33 @@ Profiles:
 
 - [Tuesday Topics](https://www.acbmedia.org/category/tt/) — Host of a regular ACB Media Network podcast that explores a single topic from a blindness perspective in depth each week, featuring panelists and live questions from the audience.
 
+## Ricky Enger {#cr-enger}
+
+Born completely blind, the director of practical help at Hadley and host of its long-running podcast Hadley Presents, where she talks with experts and fellow learners about living well with vision loss.
+
+Profiles:
+
+- [Podcast](https://hadleyhelps.org/podcasts/hadley-presents)
+
+### Presentations
+
+- [Hadley Presents: A Conversation with the Experts](https://hadleyhelps.org/podcasts/hadley-presents) — Her podcast for Hadley, with more than 160 episodes, on daily living, technology, and adjusting to vision loss, often with practical tips from the Hadley community.
+
+## Debra Erickson {#cr-erickson}
+
+A blind chef, blind from retinitis pigmentosa, who founded The Blind Kitchen and teaches cooking without sight in webinars, convention sessions, and videos for blindness organizations.
+
+Profiles:
+
+- [LinkedIn](https://www.linkedin.com/in/debra-erickson-the-blind-kitchen/)
+- [Website](https://theblindkitchen.com/)
+
+### Presentations
+
+- [Tools and Techniques to Conquer the 4 Fears of Cooking with Vision Loss (2026)](https://youtu.be/kS1wLnVObkw) — Her program for the American Council of the Blind of Virginia and the Foundation Fighting Blindness on managing the fears of cutting, burning, embarrassment, and undercooked food.
+- [The Blind Kitchen with the Alliance on Aging and Vision Loss (2025)](https://acbmedia.org/2025/08/25/20250825-aavl-and-the-blind-kitchen/) — Her ACB Media session on how she started The Blind Kitchen and on kitchen tips for older adults with vision loss.
+- [Cooking and Baking with Low Vision](https://www.youtube.com/watch?v=tBBUWTSDsTk) — Her video for the Prevention of Blindness Society on tools and techniques for cooking and baking safely without relying on sight.
+
 ## Liam Erven {#cr-erven}
 
 Self-employed audio-game designer and founder of LWorks, making accessible games since 2002.
@@ -684,6 +716,19 @@ Profiles:
 ### Presentations
 
 - [Keynote speaking](https://chadefoster.com/) — Keynote addresses on resilience and turning constraints into advantage, delivered to audiences worldwide.
+
+## Sriram Ganesh {#cr-ganesh}
+
+The founder, CEO and developer of Lumin, who has cone-rod dystrophy, a progressive loss of central vision, and built Lumin from his own experience of working with low vision.
+
+Profiles:
+
+- [LinkedIn](https://www.linkedin.com/in/sriramganesh/)
+- [Website](https://www.trylumin.ai/)
+
+### Apps
+
+- [Lumin](https://apps.apple.com/app/id6762822189) — A voice-first email assistant for iPhone, designed alongside the blind and low-vision community to work with VoiceOver: it finds, reads, summarizes and answers email by voice.
 
 ## Bryan Garaventa {#cr-garaventa}
 
@@ -1177,12 +1222,19 @@ A blind musician, producer, and accessibility advocate from London who builds ac
 Profiles:
 
 - [GitHub](https://github.com/OnjLouis)
+- [Patreon](https://www.patreon.com/OnjMusic)
 - [Website](https://onj.me/)
 
 ### Apps
 
 - [Sensor Readout](https://github.com/OnjLouis/accessible-sensor-readout) — An accessibility-first hardware monitoring tool that reports a computer's sensor readings, such as temperatures and fan speeds, to screen reader users.
 - [Clipman](https://github.com/OnjLouis/Clipman) — An accessible clipboard manager for Windows, macOS, Linux, Android, and iPhone and iPad that keeps a searchable, organizable history for fast keyboard and screen reader use, with optional encrypted sync across devices.
+
+### Presentations
+
+- [Video Guide to Accessibility in Ableton Move with Move Everything (2026)](https://cdm.link/tag/andre-louis/) — His video tour of Move Everything, which adds an optional screen reader to Ableton's standalone Move groovebox, published by CDM.
+- [Using VOCR to Access Music Software on macOS](https://www.youtube.com/watch?v=tq8yOk2V-SU) — His Sound Without Sight webinar on setting up VOCR and using it to reach the visual controls of Logic Pro and other music software.
+- [How Visually Impaired Music Producers Make Awesome Music](https://www.semmuk.com/post/how-visually-impaired-music-producers-make-awesome-music-with-andre-louis-aka-onj) — His live video podcast for SupaJam students, showing his setup for live performance and making music from their prompts.
 
 ## Stephen Lovely {#cr-lovely}
 
@@ -1529,6 +1581,20 @@ Profiles:
 
 - [Emacspeak](https://github.com/tvraman/emacspeak) — The "Complete Audio Desktop," an actively maintained speech interface built on Emacs for Linux and other systems.
 
+## Desiree Renae {#cr-renae}
+
+A blind technology trainer who demonstrates screen readers, apps and devices from a blind user's perspective in her Learning Blind Tech podcast and her Learning Blind Tech calls on ACB Media.
+
+Profiles:
+
+- [Podcast](https://podcast.show/3562447/)
+
+### Presentations
+
+- [Learning Blind Tech: Learning Together (2026)](https://acbmedia.org/2026/03/06/20260306-learning-blind-tech-with-desiree-renae/) — Her ACB Media call in a new format, where participants bring questions and tips and learn the technology together.
+- [Learning Blind Tech: Catching Up and Windows Narrator Basics (2025)](https://acbmedia.org/2025/09/12/20250912-learning-blind-tech-with-desiree-renae/) — Her ACB Media call answering listeners' questions and talking through the basics of Windows Narrator.
+- [Voices, Voices, Voices: iOS 18 (2024)](https://blubrry.com/3562447/137656013) — Her podcast episode on creating a Personal Voice with VoiceOver and choosing voices in the VoiceOver rotor.
+
 ## Mark Riccobono {#cr-riccobono}
 
 President of the National Federation of the Blind since 2014 and himself blind; in 2011 he became the first blind person to drive a street vehicle in public using nonvisual technology.
@@ -1579,6 +1645,14 @@ Profiles:
 ### Presentations
 
 - [Mystic Access audio tutorials](https://mysticaccessdownloads.com/) — Independently authored, course-length audio tutorials, including a 4.5-hour Apple Watch guide and a 5-hour VarioUltra course, alongside a sustained role co-hosting the Mystic Access podcast.
+
+## Marco Salsiccia {#cr-salsiccia}
+
+A blind coder, tactile artist and accessibility advisor who has coached teams at Lyft, Deque and Intuit, now advises OpenAI, and builds native iPhone apps with AI coding tools.
+
+### Apps
+
+- [Intersector](https://apps.apple.com/us/app/intersector/id6777891238) — An iPhone app, with an Apple Watch companion, that announces nearby and upcoming street intersections with their distance and direction for VoiceOver users, including a Point and Scan mode and Siri Shortcuts.
 
 ## Fredric K. Schroeder {#cr-schroeder}
 
@@ -1861,9 +1935,9 @@ Profiles:
 
 ## Conclusion {#conclusion}
 
-Read together, the 127 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
+Read together, the 132 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
 
-The 14 people who appear in more than one category are worth noticing. The lines between author, developer, and presenter are thin: someone who builds a screen-reader tool often documents it in a book and demonstrates it on a podcast. Assistive technology in particular runs through all three categories at once, as subject, as tool, and as the thing being taught.
+The 15 people who appear in more than one category are worth noticing. The lines between author, developer, and presenter are thin: someone who builds a screen-reader tool often documents it in a book and demonstrates it on a podcast. Assistive technology in particular runs through all three categories at once, as subject, as tool, and as the thing being taught.
 
 The directory is deliberately bounded. It covers English-language work, it counts sole-authored books rather than collaborations, it counts apps with recent development activity rather than abandoned ones, and it counts presenters who lead in their own right. Those limits mean many worthy creators fall outside any single edition; the boundaries are meant to keep each entry verifiable, not to mark the edge of what blind people create.
 
