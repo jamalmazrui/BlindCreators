@@ -1,6 +1,7 @@
 ---
 title: "Blind Creators"
 subtitle: "A Directory of 132 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "October 2026"
 lang: "en-US"
