@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 132 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 134 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "October 2026"
@@ -9,7 +9,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 132 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 134 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -27,7 +27,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 132 people in all. Of these, 61 appear as book authors, 42 as app developers, and 46 as presenters. Those figures add up to more than 132 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 134 people in all. Of these, 61 appear as book authors, 43 as app developers, and 47 as presenters. Those figures add up to more than 134 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -122,6 +122,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Tyler Merren](#cr-merren)
 - [Joshua A. Miele](#cr-miele)
 - [Selina Mills](#cr-mills)
+- [Deenadayalan Moodley](#cr-moodley)
 - [Mark Morad](#cr-morad)
 - [Jalil Mortazavi](#cr-mortazavi)
 - [Jonathan Mosen](#cr-mosen)
@@ -162,6 +163,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Christopher "Q" Toth](#cr-toth)
 - [Sam Tupy](#cr-tupy)
 - [Larry Turnbull (d. 2020)](#cr-turnbull)
+- [Léonie Watson](#cr-watson)
 - [Erik Weihenmayer](#cr-weihenmayer)
 - [Peter White](#cr-white)
 - [Quinton Williams](#cr-williams)
@@ -171,7 +173,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 132 creators: 61 authors, 42 developers and 46 presenters.
+- 134 creators: 61 authors, 43 developers and 47 presenters.
 - 13 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
@@ -327,6 +329,7 @@ Profiles:
 ### Apps
 
 - [ART (Accessibility Reporting Tool)](https://github.com/ripplelearning/ART) — An open-source, local-first workspace for documenting accessibility findings, managing standards such as WCAG 2.1 and 2.2, and exporting reports to Word, Excel, PDF, and HTML, built for full keyboard and screen reader use; she conceived and built it with AI-assisted development.
+- [FRAME PDF Studio](https://github.com/ripplelearning/Frame-PDF-Studio) — A free tool for fixing an inaccessible PDF yourself, in the browser, adding headings, table tags, a sensible reading order and fillable form fields, with no AI in the loop and nothing leaving your computer; built for blind screen reader users, with its code written by an AI.
 
 ### Books
 
@@ -1359,6 +1362,18 @@ Profiles:
 
 - [Life Unseen: A Story of Blindness (2023)](https://us.amazon.com/Life-Unseen-Blindness-Selina-Mills/dp/1848856903) — A personal, often witty cultural history of blindness in the West, woven through her own loss of sight.
 
+## Deenadayalan Moodley {#cr-moodley}
+
+Materials Production and Access Technology Coordinator at the University of South Africa (UNISA) in Pretoria, a long-time NVDA user, and the maker of ScanMaster, built over four months in 2026.
+
+Profiles:
+
+- [GitHub](https://github.com/DeenadayalanMoodley)
+
+### Apps
+
+- [ScanMaster](https://github.com/DeenadayalanMoodley/ScanMaster-releases/releases) — A word processor, scanner and OCR studio, document reader and audiobook maker for Windows, built from the start for screen readers and the keyboard, with an AI assistant that proofreads, describes pictures and tells who is speaking in a story.
+
 ## Mark Morad {#cr-morad}
 
 A developer who lost his sight as a university freshman, then taught himself to program with a screen reader and built an AI accessibility assistant now used by people in dozens of countries.
@@ -1866,6 +1881,22 @@ Profiles:
 ### Presentations
 
 - [Handy Around the House](https://www.acbmedia.org/) — His own ACB Radio show sharing home-repair and maintenance tips for blind and low-vision listeners.
+
+## Léonie Watson {#cr-watson}
+
+Co-founder and Director of TetraLogical, Chair of the W3C Board of Directors and co-chair of the W3C Web Applications Working Group, who has worked on the web since 1997, losing her sight along the way; based in Bristol, England.
+
+Profiles:
+
+- [Website](https://tink.uk/)
+- [LinkedIn](https://linkedin.com/in/lwatson)
+- [Mastodon](https://w3c.social/@tink)
+
+### Presentations
+
+- [There Is No Spoon (2025)](https://beyondtellerrand.com/events/dusseldorf-2025/speakers/leonie-watson) — A beyond tellerrand keynote in Düsseldorf on generative AI and accessibility: its errors and ethical costs, and what image and video description have opened up for blind people.
+- [Bag of Spanners (2022)](https://beyondtellerrand.com/events/dusseldorf-2022/speakers/leonie-watson) — A beyond tellerrand talk on how screen readers get role, name and state from the browser, and how to build accessible components with HTML and ARIA.
+- [I, Human (2018)](https://beyondtellerrand.com/events/berlin-2018/speakers/leonie-watson) — A talk at beyond tellerrand in Berlin, 2018.
 
 ## Erik Weihenmayer {#cr-weihenmayer}
 
