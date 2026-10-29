@@ -751,7 +751,7 @@ Profiles:
 
 ## Tony Gebhard {#cr-gebhard}
 
-A totally blind musician and assistive technology instructor from Michigan who builds free, keyboard-first tools for screen reader users.
+A totally blind musician and assistive technology instructor from Michigan who builds keyboard-first tools for screen reader users, most of them free, through his TG Studios.
 
 Profiles:
 
@@ -761,12 +761,13 @@ Profiles:
 
 ### Apps
 
-- [NVDA Coach](https://github.com/tonygeb23/nvdaCoach-) — A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it as an assistive technology instructor for beginners and their teachers.
+- [Word Champion](https://tgstudios.app/word-champion/) — A program of five word games, fifty typing lessons, a talking dictionary, and a journal for blind and low-vision learners of any age, speaking through the screen reader or the Windows voice; a paid Windows program, released in October 2026, with a 14-day free trial.
 - [TG Drop Deck](https://github.com/tonygeb23/tg-drop-deck) — A free, MIT-licensed soundboard and playout desk for podcasts, radio, and live shows on Windows and Mac, with eighty sounds on the number row, a crossfading playlist, a processed microphone, recording, and streaming, all built keyboard-first for screen reader users.
+- [NVDA Coach](https://github.com/tonygeb23/nvdaCoach-) — A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it as an assistive technology instructor for beginners and their teachers.
 
 ### Books
 
-- [No Sight Required — The Blind User's Guide to AI (2026)](https://nosightrequired.com/) — A practical guide to using ChatGPT, Claude, and Gemini with NVDA, JAWS, VoiceOver, and TalkBack.
+- [No Sight Required — The Blind User's Guide to AI (2026)](https://nosightrequired.com/) — A practical guide to using ChatGPT, Claude, and Gemini with NVDA, JAWS, VoiceOver, and TalkBack. A Spanish edition, No se requiere vista, translated by Mateo Quintela, followed in October 2026.
 
 ### Presentations
 
@@ -1221,7 +1222,7 @@ Profiles:
 
 ## Andre "Onj" Louis {#cr-louis}
 
-A blind musician, producer, and accessibility advocate from London who builds accessibility-first Windows tools; he was the first blind person to beta-test Native Instruments' Komplete Kontrol accessibility features.
+A blind musician, producer, and accessibility advocate from London who builds accessibility-first tools for Windows, macOS, NVDA, and music hardware; he was the first blind person to beta-test Native Instruments' Komplete Kontrol accessibility features.
 
 Profiles:
 
@@ -1231,6 +1232,7 @@ Profiles:
 
 ### Apps
 
+- [soundWave](https://github.com/OnjLouis/soundWave/releases) — A free NVDA add-on, in the NVDA Add-on Store, that renders clipboard text, typed text, files, or folders to WAV, MP3, FLAC, or M4A audio through the speech synthesizers NVDA supports, with batch processing.
 - [Sensor Readout](https://github.com/OnjLouis/accessible-sensor-readout) — An accessibility-first hardware monitoring tool that reports a computer's sensor readings, such as temperatures and fan speeds, to screen reader users.
 - [Clipman](https://github.com/OnjLouis/Clipman) — An accessible clipboard manager for Windows, macOS, Linux, Android, and iPhone and iPad that keeps a searchable, organizable history for fast keyboard and screen reader use, with optional encrypted sync across devices.
 
