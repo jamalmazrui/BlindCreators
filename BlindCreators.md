@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 134 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 135 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "October 2026"
@@ -9,7 +9,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 134 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 135 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -27,7 +27,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 134 people in all. Of these, 61 appear as book authors, 43 as app developers, and 47 as presenters. Those figures add up to more than 134 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 135 people in all. Of these, 61 appear as book authors, 44 as app developers, and 47 as presenters. Those figures add up to more than 135 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -44,6 +44,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Jeff Bishop](#cr-bishop)
 - [Amy Bovaird](#cr-bovaird)
 - [John Boyer](#cr-boyer)
+- [Brandon Bracey](#cr-bracey)
 - [Laura Bratton](#cr-bratton)
 - [Tristen Breitenfeldt](#cr-breitenfeldt)
 - [Shelly Brisbin](#cr-brisbin)
@@ -173,7 +174,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 134 creators: 61 authors, 43 developers and 47 presenters.
+- 135 creators: 61 authors, 44 developers and 47 presenters.
 - 13 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
@@ -304,6 +305,21 @@ Profiles:
 
 - [Liblouis](https://github.com/liblouis/liblouis) — The open-source braille translator and back-translator, named for Louis Braille, that produces the braille output used by NVDA, Orca, and many commercial tools.
 - [BrailleBlaster](https://www.brailleblaster.org/) — A free, cross-platform application for transcribing print documents into well-formatted braille.
+
+## Brandon Bracey {#cr-bracey}
+
+A blind developer from Edmonton, Alberta, who writes for the Canadian Organization of the Blind and DeafBlind and builds screen-reader-first apps by vibe coding, beginning with BlindRSS.
+
+Profiles:
+
+- [Double Tap interview](https://doubletaponair.com/blind-rss-vibe-coding-accessible-news-made-simple/)
+- [GitHub](https://github.com/serrebidev)
+
+### Apps
+
+- [BlindFB](https://github.com/serrebidev/BlindFB) — A screen-reader-friendly Facebook and Messenger client for Windows, macOS, and Linux, still in beta, for reading the feed and notifications, posting, and chatting through native controls instead of the Facebook website; he built it after Facebook left screen reader problems unfixed for years.
+- [BlindTerm](https://github.com/serrebidev/BlindTerm/releases) — A Windows terminal for NVDA and JAWS users that speaks command output and makes full-screen programs, AI coding agents, and text-based MUD games usable.
+- [BlindRSS](https://github.com/serrebidev/BlindRSS) — A free, MIT-licensed RSS and podcast client for Windows, macOS, and Linux that reads feeds, full articles, and YouTube videos, plays and casts audio, and works with hosted feed services, with editions for Android and for iPhone and iPad.
 
 ## Laura Bratton {#cr-bratton}
 
