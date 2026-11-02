@@ -1201,15 +1201,61 @@ Profiles:
 
 ## Doug Lee {#cr-lee-doug}
 
-Assistive-technology programmer known for a large catalog of JAWS scripts and cross-platform Python tools.
+A blind assistive-technology programmer whose JAWS scripts cover dozens of applications, from Microsoft Teams, Slack and Discord to ham radio software, and who also writes NVDA add-ons and cross-platform Python tools such as the TeamTalk Commander. His scripts share a common design, documented on his site: multi-key command sequences you can explore by Tab, a script revision number at Insert+Q, and installers that reach every JAWS version and language.
 
 Profiles:
 
-- [Website](https://www.dlee.org/)
+- [Website](https://dlee.org/)
 
 ### Apps
 
-- [TTCom](https://www.dlee.org/) — A cross-platform, command-line TeamTalk client written in Python.
+- [3CX JAWS Scripts](https://dlee.org/3cx/) — JAWS scripts for the 3CX telephony app.
+- [Adobe Connect JAWS Scripts](https://dlee.org/adobeconnect/) — JAWS scripts for the Adobe Connect meeting platform.
+- [Alexa JAWS Scripts](https://dlee.org/alexa/) — JAWS scripts for the Amazon Alexa app for Windows 10.
+- [Audible JAWS Scripts](https://dlee.org/audible/) — JAWS scripts for the Audible app for Windows 10.
+- [Audir (Audio Director Manager)](https://dlee.org/audir/) — Creates, launches and manages the programs that direct or repeat audio among devices and files, chiefly Virtual Audio Cable and SoX; formerly called Vacro.
+- [Bookmark Tree (bmt)](https://dlee.org/bmt/) — Combines the bookmarks of several browsers into one filterable tree, and opens a chosen bookmark in the default browser or another, private if wanted.
+- [BX, the JAWS Toolbox](https://dlee.org/bx/) — A toolbox of JAWS scripts for examining and working with what JAWS sees in any application.
+- [Dell Audio JAWS Scripts](https://dlee.org/dell/) — JAWS scripts for Dell's audio application.
+- [Dell Update and Dell Command Update JAWS Scripts](https://dlee.org/dcu/) — JAWS scripts for Dell Update and Dell Command Update.
+- [Discord JAWS Scripts](https://dlee.org/discord/) — JAWS scripts for the Discord chat app.
+- [Dixa JAWS Scripts](https://dlee.org/dixa/) — JAWS scripts for the Dixa customer service platform.
+- [Dropbox JAWS Scripts](https://dlee.org/dropbox/) — JAWS scripts for the Dropbox app.
+- [GoldWave JAWS Scripts](https://dlee.org/goldwave/) — JAWS scripts for the GoldWave audio editor, hosted on his site and mostly written by others.
+- [Hayaemon JAWS Scripts](https://dlee.org/hayaemon/) — JAWS scripts for the Hayaemon audio player.
+- [iaxRpt JAWS Scripts](https://www.dlee.org/ham/iaxrpt/) — JAWS scripts for iaxRpt, the AllStar link client, first written by Frank Ibarra and now maintained by Doug Lee.
+- [JAWS Alert Manager (JAM)](https://dlee.org/jam/) — JAWS scripts for saving, silencing at will and reviewing Windows and application alerts, with a way to examine websites without running their code.
+- [JGauge](https://dlee.org/jgauge/) — JAWS scripts that report progress bar changes with sounds, for JAWS 12 and later.
+- [ListTbl](https://dlee.org/listtbl/) — JAWS scripts that bring the table navigation commands to list view controls in any application, so a column can be scanned without the JAWS cursor.
+- [MicroSIP JAWS Scripts](https://dlee.org/microsip/) — JAWS scripts for the MicroSIP softphone.
+- [Microsoft Teams JAWS Scripts](https://dlee.org/teams/) — JAWS scripts for Microsoft Teams.
+- [Movies and TV JAWS Scripts](https://dlee.org/mtv/) — JAWS scripts for the Movies and TV app for Windows 10.
+- [MuseScore Scripts](https://dlee.org/musescore3/) — JAWS scripts for the MuseScore music notation program.
+- [NetLogger JAWS Scripts](https://www.dlee.org/ham/netlogger) — JAWS scripts for NetLogger, the amateur radio net logging program.
+- [OpenGD77CPS JAWS Scripts](https://www.dlee.org/dmr/) — JAWS scripts for OpenGD77CPS and compatible radio programming software, for blind ham radio operators.
+- [Ramblio Scripts](https://dlee.org/ramblio/) — Scripts for the Ramblio social media platform that make audio posts quicker to skim.
+- [Rig Manager JAWS Scripts](https://dlee.org/rig/) — JAWS scripts for the Rig Manager amateur radio software.
+- [RS Games Scripts](https://dlee.org/rsgames/) — Scripts for RS Games that shorten messages, add keystrokes and resolve focus issues.
+- [RT Systems RadioEngine JAWS Scripts](https://www.dlee.org/ham/radioEngine/) — JAWS scripts for RT Systems RadioEngine radio programming software, first published by Joseph Stephen and now maintained by Doug Lee.
+- [scrfix](https://dlee.org/scrfix/) — A small C program that lets screen(1) run under the Windows Subsystem for Linux, version 1, without root.
+- [Slack JAWS Scripts](https://dlee.org/slack/) — JAWS scripts for the Slack app.
+- [TeamSpeak JAWS Scripts](https://dlee.org/teamspeak/) — JAWS scripts for the TeamSpeak voice chat client.
+- [TeamSpeak NVDA Add-on](https://dlee.org/teamspeak/NVDA/) — An NVDA add-on for the TeamSpeak voice chat client.
+- [TeamTalk JAWS Scripts and Tools](https://dlee.org/teamtalk/) — JAWS scripts for TeamTalk, with the TTConv configuration converter, the Taff audio file fixer and other tools.
+- [TeamViewer JAWS Scripts](https://dlee.org/teamviewer/) — JAWS scripts for TeamViewer remote control.
+- [TTCom (TeamTalk Commander)](https://dlee.org/teamtalk/) — A cross-platform, command-line TeamTalk client written in Python.
+- [Tween and OpenTween Scripts](https://dlee.org/tween/) — JAWS scripts, an NVDA add-on and resources for the Tween and OpenTween clients.
+- [Twitch JAWS Scripts](https://dlee.org/twitch/) — JAWS scripts for Twitch.
+- [Unigram JAWS Scripts](https://dlee.org/unigram/) — JAWS scripts for Unigram, a reasonably accessible Telegram client for Windows.
+- [Virtual Audio Cable JAWS Scripts](https://dlee.org/vac/) — JAWS scripts for the Virtual Audio Cable applications.
+- [Virtual Audio Cable NVDA Add-on](https://dlee.org/vac/NVDA/) — An NVDA add-on for the Virtual Audio Cable applications.
+- [Visual Studio Code JAWS Scripts](https://dlee.org/vscode/) — Simple JAWS scripts for Visual Studio Code, written with Jeff Bishop.
+- [VLC Media Player JAWS Scripts](https://dlee.org/vlc/) — JAWS scripts for VLC Media Player.
+- [Weather Watcher Live JAWS Scripts](https://dlee.org/ww/) — JAWS scripts for Weather Watcher Live.
+- [WhatsApp JAWS Scripts](https://dlee.org/whatsapp/) — JAWS scripts for the WhatsApp app and website, for the version released in November 2025.
+- [Winlink Express JAWS Scripts](https://dlee.org/ham/) — JAWS scripts for Winlink Express, the radio email program, published with his ham radio resources.
+- [Wireshark JAWS Scripts](https://dlee.org/wireshark/) — JAWS scripts for the Wireshark network analyzer, for JAWS 2018 or later.
+- [YouTube JAWS Scripts](https://dlee.org/youtube/) — JAWS scripts for YouTube, for JAWS 17 or later.
 
 ## Joseph Lee {#cr-lee-joseph}
 
@@ -1310,9 +1356,18 @@ Profiles:
 
 ### Apps
 
-- [2htm](https://github.com/JamalMazrui/2htm) — Converts Word, Excel, PowerPoint, PDF, and Markdown files into accessible HTML that preserves headings, lists, tables, and image alt text.
-- [extCheck](https://github.com/JamalMazrui/extCheck) — Checks the accessibility of Word, Excel, PowerPoint, and Markdown files, writing per-file CSV reports of issues found by an extensible rule registry.
-- [urlCheck](https://github.com/JamalMazrui/urlCheck) — Drives Microsoft Edge through Playwright to run axe-core on each page, producing per-page reports plus a session-level Accessibility Conformance Report against all 86 WCAG 2.2 success criteria.
+- [2htm](https://github.com/JamalMazrui/2htm) — Converts Word, Excel, PowerPoint, PDF, and Markdown files to clean HTML or plain text that keeps the headings, lists, tables, and reading order a screen reader needs.
+- [BatCon](https://github.com/JamalMazrui/BatCon) — Converts many files at once between formats -- PDF to Markdown, Word to web page, Markdown to Word or PowerPoint, an inix table to Excel -- with the same conversions as the other Homer Tools, and with optional OCR and transcription on your own computer.
+- [bookFido](https://github.com/JamalMazrui/bookFido) — Builds one catalog of your books across Audible, Bookshare, Goodreads, Kindle, and NLS BARD through your own signed-in Microsoft Edge, with nothing about your accounts leaving the computer.
+- [DbDo](https://github.com/JamalMazrui/DbDo) — Manages SQLite, Access, Excel, and other databases from the keyboard as lists you move through cell by cell or with a dot prompt for commands and SQL.
+- [EdSharp](https://github.com/JamalMazrui/EdSharp) — An editor for text and program code, in use since 2007, that speaks the result of each command.
+- [extCheck](https://github.com/JamalMazrui/extCheck) — Checks Word, Excel, PowerPoint, and Markdown files, a whole folder at a time, against rules from the Microsoft Office Accessibility Checker and WCAG.
+- [FileDir](https://github.com/JamalMazrui/FileDir) — Manages files and folders by typed command rather than by mouse, in use since 2006.
+- [HomerDev](https://github.com/JamalMazrui/HomerDev) — The Homer Development Kit of shared classes, app templates, and build and release scripts that every Homer Tool is built on.
+- [HomerScribe](https://github.com/JamalMazrui/HomerScribe) — Describes video and transcribes audio with AI models running on your own computer, returning a copy of the film with description mixed into its sound.
+- [HomerView](https://github.com/JamalMazrui/HomerView) — Asks Microsoft Edge directly what is on a page, reporting headings, links, accessibility problems, and the main article without the clutter, with JAWS support in progress.
+- [urlCheck](https://github.com/JamalMazrui/urlCheck) — Tests a whole list of web pages unattended and drafts an Accessibility Conformance Report over all 86 WCAG 2.2 success criteria.
+- [urlFido](https://github.com/JamalMazrui/urlFido) — Downloads every file of a chosen kind from a web page, driving your own Microsoft Edge so that sign-ins apply.
 
 ### Books
 
