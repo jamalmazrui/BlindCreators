@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 135 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 136 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "October 2026"
@@ -9,7 +9,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 135 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 136 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -27,7 +27,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 135 people in all. Of these, 61 appear as book authors, 44 as app developers, and 47 as presenters. Those figures add up to more than 135 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 136 people in all. Of these, 61 appear as book authors, 45 as app developers, and 47 as presenters. Those figures add up to more than 136 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -119,6 +119,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Dean Martineau](#cr-martineau)
 - [Jamal Mazrui](#cr-mazrui)
 - [J.J. Meddaugh](#cr-meddaugh)
+- [Allison Meloy](#cr-meloy)
 - [Steven B. Mendelsohn](#cr-mendelsohn)
 - [Tyler Merren](#cr-merren)
 - [Joshua A. Miele](#cr-miele)
@@ -174,7 +175,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 135 creators: 61 authors, 44 developers and 47 presenters.
+- 136 creators: 61 authors, 45 developers and 47 presenters.
 - 13 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
@@ -1331,6 +1332,20 @@ Profiles:
 ### Apps
 
 - [NFB 2026 Convention Web App](https://nfb26.atguys.com/) — An accessible web app for attendees of the 2026 National Federation of the Blind national convention in Austin, Texas.
+
+## Allison Meloy {#cr-meloy}
+
+A vocational rehabilitation professional in Oxford, Ohio, a singer, and a technology enthusiast who builds macOS apps by vibe coding with Claude, testing every step herself with VoiceOver; she spoke on the National Federation of the Blind's Access On panel on vibe coding and accessibility in October 2026.
+
+Profiles:
+
+- [Double Tap interview](https://doubletaponair.com/blind-developer-creates-seamless-windows-on-mac-experience/)
+- [GitHub](https://github.com/allisonfm85)
+
+### Apps
+
+- [AVM (Accessible Virtual Machine)](https://github.com/allisonfm85/accessible-virtual-machine) — Installs and runs Windows 11 virtual machines on an Apple Silicon Mac entirely through VoiceOver, with no sighted help at any step, and speaks a specific, useful message for every failure; Kelly Ford has contributed to it.
+- [AccessTerm](https://github.com/allisonfm85/AccessTerm) — An accessible terminal client for the Mac, made for using command-line tools such as Claude Code with VoiceOver, with a command view for typing and a transcript read line by line.
 
 ## Steven B. Mendelsohn {#cr-mendelsohn}
 
