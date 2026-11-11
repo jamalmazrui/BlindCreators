@@ -3,7 +3,7 @@ title: "Blind Creators"
 subtitle: "A Directory of 136 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
-date: "October 2026"
+date: "November 2026"
 lang: "en-US"
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -780,7 +780,7 @@ Profiles:
 
 - [Word Champion](https://tgstudios.app/word-champion/) — A program of five word games, fifty typing lessons, a talking dictionary, and a journal for blind and low-vision learners of any age, speaking through the screen reader or the Windows voice; a paid Windows program, released in October 2026, with a 14-day free trial.
 - [TG Drop Deck](https://github.com/tonygeb23/tg-drop-deck) — A free, MIT-licensed soundboard and playout desk for podcasts, radio, and live shows on Windows and Mac, with eighty sounds on the number row, a crossfading playlist, a processed microphone, recording, and streaming, all built keyboard-first for screen reader users.
-- [NVDA Coach](https://github.com/tonygeb23/nvdaCoach-) — A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it as an assistive technology instructor for beginners and their teachers.
+- [NVDA Coach](https://github.com/tonygeb23/nvdaCoach-) — A free NVDA add-on, in the NVDA Add-on Store, that teaches screen reader commands from inside NVDA through 45 guided, hands-on lessons with spoken instructions, hints, and built-in practice forms and web pages; he built it with Claude, as an assistive technology instructor, for beginners and their teachers.
 
 ### Books
 
