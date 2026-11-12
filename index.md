@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 136 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 137 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "November 2026"
@@ -9,7 +9,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 136 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 137 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -27,7 +27,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 136 people in all. Of these, 61 appear as book authors, 45 as app developers, and 47 as presenters. Those figures add up to more than 136 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 137 people in all. Of these, 61 appear as book authors, 46 as app developers, and 47 as presenters. Those figures add up to more than 137 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -96,6 +96,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Donna W. Hill](#cr-hill-donna)
 - [James Tate Hill](#cr-hill-james)
 - [Michael Hingson](#cr-hingson)
+- [Jim Homme](#cr-homme)
 - [Meriç Karaca](#cr-karaca)
 - [Deborah Kendrick](#cr-kendrick)
 - [Deborah Kent](#cr-kent)
@@ -175,7 +176,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 136 creators: 61 authors, 45 developers and 47 presenters.
+- 137 creators: 61 authors, 46 developers and 47 presenters.
 - 13 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
@@ -1028,6 +1029,19 @@ Profiles:
 ### Presentations
 
 - [Unstoppable Mindset](https://michaelhingson.com/podcast) — His weekly podcast on resilience and inclusion, with more than 440 episodes, alongside 100-plus keynote presentations a year worldwide.
+
+## Jim Homme {#cr-homme}
+
+An accessibility consultant with more than 27 years in information technology, who has led teams of accessibility specialists, trained many thousands of people in digital accessibility, and works daily with JAWS, NVDA, Narrator, VoiceOver and TalkBack.
+
+Profiles:
+
+- [VoiceAmerica guest page](https://www.voiceamerica.com/guest/59028/jim-homme)
+- [GitHub](https://github.com/jhomme)
+
+### Apps
+
+- [DexedAccessible](https://github.com/jhomme/dexedAccessible) — An accessible fork of the open-source Dexed synthesizer, a software version of Yamaha's 1980s DX7, made usable with VoiceOver as a standalone program and inside Logic Pro, with downloads for macOS, Windows and Linux, the last two not yet tested.
 
 ## Meriç Karaca {#cr-karaca}
 
