@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 139 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 148 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "November 2026"
@@ -9,7 +9,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 139 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 148 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -27,7 +27,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 139 people in all. Of these, 61 appear as book authors, 48 as app developers, and 47 as presenters. Those figures add up to more than 139 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 148 people in all. Of these, 63 appear as book authors, 48 as app developers, and 56 as presenters. Those figures add up to more than 148 because 17 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Fifteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -39,6 +39,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Kirk Adams](#cr-adams-kirk)
 - [Nicholas Adams](#cr-adams-nicholas)
 - [Peter Altschul](#cr-altschul)
+- [Jesse Anderson](#cr-anderson)
 - [Gianluca Apollaro](#cr-apollaro)
 - [Taylor Arndt](#cr-arndt)
 - [Jeff Bishop](#cr-bishop)
@@ -56,6 +57,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Peggy Chong](#cr-chong)
 - [Belo Cipriani](#cr-cipriani)
 - [Naomi Cohn](#cr-cohn)
+- [Brandon Cole (d. 2024)](#cr-cole)
 - [Anthony Corona](#cr-corona)
 - [Michael "Mick" Curran](#cr-curran)
 - [Dash](#cr-dash)
@@ -97,6 +99,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [James Tate Hill](#cr-hill-james)
 - [Michael Hingson](#cr-hingson)
 - [Jim Homme](#cr-homme)
+- [Satauna Howery](#cr-howery)
 - [Elizabeth Huffman](#cr-huffman)
 - [Meriç Karaca](#cr-karaca)
 - [Deborah Kendrick](#cr-kendrick)
@@ -118,6 +121,8 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Andrew Leland](#cr-leland)
 - [Andre "Onj" Louis](#cr-louis)
 - [Stephen Lovely](#cr-lovely)
+- [Fern Lulham](#cr-lulham)
+- [Christine Malec](#cr-malec)
 - [Tony Malykh](#cr-malykh)
 - [Dean Martineau](#cr-martineau)
 - [Jamal Mazrui](#cr-mazrui)
@@ -145,6 +150,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Shaun Preece](#cr-preece)
 - [Mika Pyyhkala](#cr-pyyhkala)
 - [T. V. Raman](#cr-raman)
+- [Thomas Reid](#cr-reid)
 - [Desiree Renae](#cr-renae)
 - [Mark Riccobono](#cr-riccobono)
 - [Derek Riemer](#cr-riemer)
@@ -157,9 +163,12 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Saqib Shaikh](#cr-shaikh)
 - [Tyler Spivey](#cr-spivey)
 - [Adrian Spratt](#cr-spratt)
+- [John "Mac the Movie Guy" Stark](#cr-stark)
 - [Maribel Steel](#cr-steel)
+- [Jim Stovall](#cr-stovall)
 - [Penn Street](#cr-street)
 - [Red Szell](#cr-szell)
+- [Marilee Talkington](#cr-talkington)
 - [David S. Tatel](#cr-tatel)
 - [Abbie Johnson Taylor](#cr-taylor)
 - [James "Jamie" Teh](#cr-teh)
@@ -178,8 +187,8 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 139 creators: 61 authors, 48 developers and 47 presenters.
-- 13 people work in two of the three ways, and 2 people in all three.
+- 148 creators: 63 authors, 48 developers and 56 presenters.
+- 15 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
 
@@ -232,6 +241,18 @@ Profiles:
 - [Riding Elephants: Creating Common Ground Where Contention Rules (2021)](https://www.amazon.com/dp/B08XPW3LKK) — Brief essays arguing that common ground at home, at work, and in faith communities comes from guiding our unruly emotions with patience and deliberate thought.
 - [Breaking It Down and Connecting the Dots: Creating Common Ground Where Contention Rules (2017)](https://www.amazon.com/dp/B079KH2W5B) — Essays on finding common ground and working through conflict in a divided world.
 - [Breaking Barriers: Working and Loving While Blind (2012)](https://www.amazon.com/Breaking-Barriers-Working-Loving-While-ebook/dp/B07957T2JX) — A memoir of building a career and finding love as a man blind since birth, alongside the five guide dogs who shared the journey.
+
+## Jesse Anderson {#cr-anderson}
+
+A legally blind assistive technology specialist in Saint Paul, Minnesota, and a game, technology, and virtual reality accessibility consultant who has presented at the Game Accessibility Conference and Inclusive Design 24.
+
+Profiles:
+
+- [YouTube](https://www.youtube.com/@IllegallySighted)
+
+### Presentations
+
+- [IllegallySighted](https://www.youtube.com/@IllegallySighted) — His YouTube channel on games, technology, and virtual reality from a legally blind, low-vision perspective, with hardware reviews, accessible game spotlights, and iOS app demos.
 
 ## Gianluca Apollaro {#cr-apollaro}
 
@@ -477,6 +498,23 @@ Profiles:
 ### Books
 
 - [The Braille Encyclopedia: Brief Essays on Altered Sight (2024)](https://rosemetalpress.com/books/the-braille-encyclopedia/) — An abecedarian memoir in brief essays and prose poems on losing her sight and learning braille as an adult.
+
+## Brandon Cole (d. 2024) {#cr-cole}
+
+A totally blind, award-winning video game accessibility consultant whose work includes The Last of Us Part I and Part II, and a streamer, podcaster, and voice actor; he died in June 2024.
+
+Profiles:
+
+- [Twitch](https://www.twitch.tv/superblindman)
+- [Website](https://www.brandoncole.net/)
+
+### Books
+
+- [Taking Video Out of the Game: A Game Developer's Guide to Total Blind Accessibility (2025)](https://www.routledge.com/Taking-Video-Out-of-the-Game-A-Game-Developers-Guide-to-Total-Blind-Accessibility/Cole/p/book/9781032557397) — A guide for game developers to making games fully playable without sight, from the history of blind accessibility to guidelines on narration, navigation, audio cues, and combat.
+
+### Presentations
+
+- [superblindman streams and videos](https://www.youtube.com/superblindman) — His streams of mainstream games, played with plenty of audience interaction and live talk about accessibility, with the recordings on YouTube.
 
 ## Anthony Corona {#cr-corona}
 
@@ -1045,6 +1083,19 @@ Profiles:
 
 - [DexedAccessible](https://github.com/jhomme/dexedAccessible) — An accessible fork of the open-source Dexed synthesizer, a software version of Yamaha's 1980s DX7, made usable with VoiceOver as a standalone program and inside Logic Pro, with downloads for macOS, Windows and Linux, the last two not yet tested.
 
+## Satauna Howery {#cr-howery}
+
+A voice actor, born blind, with more than a decade of work in commercials, e-learning, video games, and audio description narration.
+
+Profiles:
+
+- [IMDb](https://www.imdb.com/name/nm9180692/)
+- [Voices](https://www.voices.com/actors/Satauna)
+
+### Presentations
+
+- [Audio description narration (2021)](https://www.imdb.com/name/nm9180692/) — Her credited audio description narration for television and film, including six episodes of Black-ish, the film Things Heard and Seen, and the AFB documentary Possibilities.
+
 ## Elizabeth Huffman {#cr-huffman}
 
 A blind accessibility specialist and developer in training who builds her apps with ChatGPT as a collaborator.
@@ -1361,6 +1412,32 @@ Profiles:
 ### Apps
 
 - [Vision AI Assistant](https://visionaiassistant.com) — A progressive web app for iPhone and Android that lets users explore a photo by moving a finger across it, get brief live descriptions from the camera, track an object to walk toward it, and read signs and printed books, with optional voice commands; he builds it by describing features in plain language on the Base44 platform.
+
+## Fern Lulham {#cr-lulham}
+
+A UK broadcaster, keynote speaker, audio description narrator, and psychotherapist, born severely visually impaired and now registered blind, who has reported and presented for BBC Radio 4 since 2018.
+
+Profiles:
+
+- [Website](https://www.fernlulham.com/)
+
+### Presentations
+
+- [What Online Dating Looks Like When You're Blind (TEDx)](https://youtu.be/T8VA91rUCMg) — Her TEDx talk, seen more than 85,000 times, on insecurity, disclosure, and dating as a blind woman, told with humor.
+- [Keynote speaking](https://www.fernlulham.com/) — Her keynotes and talks on the emotional side of disability, equality, diversity and inclusion, and resilience.
+
+## Christine Malec {#cr-malec}
+
+A Toronto arts and culture consultant, musician, and audio describer who lost her sight to retinitis pigmentosa as a teenager and is completely blind.
+
+Profiles:
+
+- [Luminato Festival](https://LuminatoFestival.com/artist/ChristineMalec)
+
+### Presentations
+
+- [Blind Wide Open](https://cnib.ca/en/node/4496?region=gta) — The CNIB podcast she hosts, exploring how blind Canadians work, play, learn, use technology, support each other, and advocate.
+- [Talk Description to Me](https://podcasts.apple.com/podcast/id1524083725) — A description-rich conversation podcast she co-hosted with describer J.J. Hunt for more than a hundred episodes.
 
 ## Tony Malykh {#cr-malykh}
 
@@ -1730,6 +1807,18 @@ Profiles:
 
 - [Emacspeak](https://github.com/tvraman/emacspeak) — The "Complete Audio Desktop," an actively maintained speech interface built on Emacs for Linux and other systems.
 
+## Thomas Reid {#cr-reid}
+
+An audio producer, voiceover artist, and audio description narrator in East Stroudsburg, Pennsylvania, who lost his sight in 2004.
+
+Profiles:
+
+- [Website](https://www.reidmymind.com/)
+
+### Presentations
+
+- [Reid My Mind Radio (2014)](https://podcasts.apple.com/us/podcast/reidmymindradio/id1109751505) — His podcast of stories and profiles of people affected by blindness and disability, produced with music and sound design, including the Flipping the Script on Audio Description series.
+
 ## Desiree Renae {#cr-renae}
 
 A blind technology trainer who demonstrates screen readers, apps and devices from a blind user's perspective in her Learning Blind Tech podcast and her Learning Blind Tech calls on ACB Media.
@@ -1874,6 +1963,20 @@ Profiles:
 
 - [Caroline (2021)](https://www.amazon.com/Caroline-Adrian-Spratt/dp/1953865453) — A novel about a young blind lawyer in 1980s New York and a love that shapes him.
 
+## John "Mac the Movie Guy" Stark {#cr-stark}
+
+A blind film critic approved by Rotten Tomatoes, reviewing movies since before he lost his sight, and a member of the media committee of the ACB Audio Description Project.
+
+Profiles:
+
+- [Rotten Tomatoes](https://www.rottentomatoes.com/critics/john-stark-1)
+- [Website](https://macthemovieguy.com/)
+
+### Presentations
+
+- [Going In Blind With John Stark (2026)](https://www.audible.co.uk/podcast/Going-In-Blind-With-John-Stark/B0H55FK3QL) — His podcast analyzing and critiquing the audio description of one film per episode.
+- [Mac the Movie Guy](https://www.youtube.com/channel/UCT8prgdVvLZW44eyY2roewQ) — His YouTube channel of more than 1,000 videos about movies and their audio description.
+
 ## Maribel Steel {#cr-steel}
 
 An Australian author, speaker, and memoirist who is legally blind from retinitis pigmentosa.
@@ -1885,6 +1988,24 @@ Profiles:
 ### Books
 
 - [Blindness for Beginners: A Renewed Vision of the Possible (2018)](https://www.amazon.com/Blindness-Beginners-renewed-vision-possible/dp/0987446126) — Part memoir, part practical guide to adjusting emotionally and practically to vision loss.
+
+## Jim Stovall {#cr-stovall}
+
+A totally blind author, keynote speaker, and president of the Emmy Award-winning Narrative Television Network in Tulsa, Oklahoma.
+
+Profiles:
+
+- [Website](https://jimstovall.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Jim_Stovall)
+
+### Books
+
+- [Wisdom for Winners, Volume Three (2017)](https://origin-www.audible.ca/pd/Wisdom-for-Winners-Volume-Three-Audiobook/B0728P3GQ3) — Short pieces drawn from his syndicated Winners' Wisdom columns on success, work, and character, arranged to be read a few at a time.
+- [The Ultimate Gift (2001)](https://www.audible.co.uk/pd/The-Ultimate-Gift-Audiobook/B004EWSSVI) — A bestselling novel, later a feature film, in which a spoiled heir must complete a year of tasks set by his late uncle to learn what his inheritance is.
+
+### Presentations
+
+- [Keynote speaking: YES, You Can!](https://www.texasspeakersbureau.com/jim-stovall/) — His keynote on achievement, from a speaker who has shared the stage with Colin Powell, Christopher Reeve, Tony Robbins, and Barbara Bush.
 
 ## Penn Street {#cr-street}
 
@@ -1910,6 +2031,21 @@ Profiles:
 ### Books
 
 - [The Blind Man of Hoy: A True Story (2014)](https://www.amazon.co.uk/Blind-Man-Hoy-Red-Szell/dp/1910124222) — An account of becoming the first blind person to climb the Old Man of Hoy, the 449-foot sea stack off Orkney.
+
+## Marilee Talkington {#cr-talkington}
+
+A legally blind actor, writer, and director, the first self-identified legally blind actor cast in a principal role on Broadway, and founder of Access Acting Academy.
+
+Profiles:
+
+- [Access Acting Academy](https://www.accessacting.com/)
+- [IMDb](https://www.imdb.com/name/nm3411258)
+- [Website](https://www.marileetalkington.com/)
+
+### Presentations
+
+- [Authentically Blind on Stage and Screen (2018)](https://nfb.org/images/nfb/publications/bm/bm18/bm1811/bm181103.htm) — Her address to the 2018 National Federation of the Blind convention on turning obstacles into stepping stones as a blind actor.
+- [Screen roles, including See and New Amsterdam](https://www.imdb.com/name/nm3411258) — Her television and film work, among more than 80 characters she has originated on stage and screen.
 
 ## David S. Tatel {#cr-tatel}
 
@@ -2101,9 +2237,9 @@ Profiles:
 
 ## Conclusion {#conclusion}
 
-Read together, the 132 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
+Read together, the 148 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
 
-The 15 people who appear in more than one category are worth noticing. The lines between author, developer, and presenter are thin: someone who builds a screen-reader tool often documents it in a book and demonstrates it on a podcast. Assistive technology in particular runs through all three categories at once, as subject, as tool, and as the thing being taught.
+The 17 people who appear in more than one category are worth noticing. The lines between author, developer, and presenter are thin: someone who builds a screen-reader tool often documents it in a book and demonstrates it on a podcast. Assistive technology in particular runs through all three categories at once, as subject, as tool, and as the thing being taught.
 
 The directory is deliberately bounded. It covers English-language work, it counts sole-authored books rather than collaborations, it counts apps with recent development activity rather than abandoned ones, and it counts presenters who lead in their own right. Those limits mean many worthy creators fall outside any single edition; the boundaries are meant to keep each entry verifiable, not to mark the edge of what blind people create.
 
