@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 138 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 139 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "November 2026"
@@ -9,7 +9,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 138 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 139 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -27,7 +27,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 138 people in all. Of these, 61 appear as book authors, 47 as app developers, and 47 as presenters. Those figures add up to more than 138 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 139 people in all. Of these, 61 appear as book authors, 48 as app developers, and 47 as presenters. Those figures add up to more than 139 because 15 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Thirteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -114,6 +114,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Pete Lane](#cr-lane)
 - [Doug Lee](#cr-lee-doug)
 - [Joseph Lee](#cr-lee-joseph)
+- [Luke Leiby](#cr-leiby)
 - [Andrew Leland](#cr-leland)
 - [Andre "Onj" Louis](#cr-louis)
 - [Stephen Lovely](#cr-lovely)
@@ -177,7 +178,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 138 creators: 61 authors, 47 developers and 47 presenters.
+- 139 creators: 61 authors, 48 developers and 47 presenters.
 - 13 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
@@ -1298,6 +1299,22 @@ Profiles:
 - [Add-on Updater](https://github.com/josephsl/addonUpdater) — Keeps other NVDA add-ons up to date.
 - [StationPlaylist](https://github.com/josephsl/stationPlaylist) — Gives NVDA users accessible control of StationPlaylist broadcasting software.
 - [Windows App Essentials](https://github.com/josephsl/wintenApps) — Improves NVDA access to built-in Windows apps.
+
+## Luke Leiby {#cr-leiby}
+
+A full-stack software engineer with a computer science degree from the University of Pittsburgh who tests apps for screen reader accessibility, serves on Pennsylvania's State Board of Vocational Rehabilitation, and spoke on the National Federation of the Blind's Access On panel on vibe coding and accessibility in October 2026.
+
+Profiles:
+
+- [GitHub](https://github.com/leibylucw)
+- [LinkedIn](https://www.linkedin.com/in/leibylucw/)
+- [Website](https://lukeleiby.com/)
+
+### Apps
+
+- [HearthstoneAccess Patcher](https://github.com/leibylucw/hearthstone-access-patcher/releases) — Downloads the HearthstoneAccess Community Patch and installs it into Hearthstone, so blind players can set up and update the accessible version of the card game on their own.
+- [SpotKeys](https://github.com/leibylucw/spot-keys) — Global keyboard shortcuts that control Spotify and speak the current track's details through the screen reader, without leaving the window you are working in.
+- [Time Zone Teller](https://github.com/leibylucw/time-zone-teller) — Speaks the current time in several time zones through the screen reader at a single keyboard shortcut.
 
 ## Andrew Leland {#cr-leland}
 
