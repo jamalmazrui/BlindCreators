@@ -1,6 +1,6 @@
 ---
 title: "Blind Creators"
-subtitle: "A Directory of 148 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
+subtitle: "A Directory of 149 People Authoring Books, Developing Apps, or Making Presentations While Blind or Low Vision"
 description: "A directory of people who are blind or have low vision and who author books, develop apps, or make presentations, merging Blind Authors, Blind Developers, and Blind Presenters."
 author: "Jamal Mazrui"
 date: "November 2026"
@@ -9,7 +9,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 toc: true
 toc-depth: 2
-abstract: "A consolidated directory of 148 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
+abstract: "A consolidated directory of 149 people who are blind or have low vision and who create in one or more of three ways: authoring books, developing apps, or making presentations. Creators are listed alphabetically by last name, each with a Profiles list and up to three works in every category that applies. It merges the companion Blind Authors, Blind Developers, and Blind Presenters directories."
 keywords: [blindness, low vision, accessibility, blind authors, blind developers, blind presenters, screen readers]
 ---
 
@@ -27,7 +27,7 @@ A person qualifies in a category on these terms:
 - **Apps.** The creator is blind or has low vision; created or led the development of the app or tool; the app is reachable today through a working link to where it can be obtained and used; and it has been actively developed or maintained in 2020 or later.
 - **Presentations.** The creator is blind or has low vision; the work is contemporary, from 2010 onward; it shows sustained, notable leadership rather than a one-off clip — such as a keynote at a recognized event, an established regularly published series, a body of at least three published works, or professional standing like a broadcasting role; and the creator holds the role in their own right.
 
-The directory holds 148 people in all. Of these, 63 appear as book authors, 48 as app developers, and 56 as presenters. Those figures add up to more than 148 because 17 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Fifteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
+The directory holds 149 people in all. Of these, 63 appear as book authors, 49 as app developers, and 56 as presenters. Those figures add up to more than 149 because 17 people work in more than one category — for example, an author who also speaks, or a developer who also writes — and each of them is counted once here, with every category that applies shown under their single entry. Fifteen of them work in two categories, and two, Tony Gebhard and Brian Hartgen, work in all three.
 
 The directory is English-language in scope: it relies on books, code, talks, and sources that can be read, run, or followed in English. Blind creators who publish or present in other languages are not represented here.
 
@@ -165,6 +165,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 - [Adrian Spratt](#cr-spratt)
 - [John "Mac the Movie Guy" Stark](#cr-stark)
 - [Maribel Steel](#cr-steel)
+- [Joshua Stirland](#cr-stirland)
 - [Jim Stovall](#cr-stovall)
 - [Penn Street](#cr-street)
 - [Red Szell](#cr-szell)
@@ -187,7 +188,7 @@ The directory is English-language in scope: it relies on books, code, talks, and
 
 ## By the Numbers {#by-the-numbers}
 
-- 148 creators: 63 authors, 48 developers and 56 presenters.
+- 149 creators: 63 authors, 49 developers and 56 presenters.
 - 15 people work in two of the three ways, and 2 people in all three.
 
 ## Tony Acosta {#cr-acosta}
@@ -1989,6 +1990,20 @@ Profiles:
 
 - [Blindness for Beginners: A Renewed Vision of the Possible (2018)](https://www.amazon.com/Blindness-Beginners-renewed-vision-possible/dp/0987446126) — Part memoir, part practical guide to adjusting emotionally and practically to vision loss.
 
+## Joshua Stirland {#cr-stirland}
+
+A blind developer of social apps made with screen reader users in mind, who also runs the tweesecake.social Mastodon server.
+
+Profiles:
+
+- [Ramblio](https://ramblio.com/)
+- [TweeseCake](https://tweesecake.app/)
+
+### Apps
+
+- [Ramblio](https://apps.apple.com/us/app/ramblio/id6749940956) — An audio-first social network for iPhone, Windows, Mac, and the web, built around short voice recordings, live hangouts, communities, and games by ear.
+- [TweeseCake](https://tweesecake.app/) — A lightweight Windows and Mac client that brings Mastodon, Bluesky, Telegram, GitHub, RSS, and other services into one keyboard-driven window.
+
 ## Jim Stovall {#cr-stovall}
 
 A totally blind author, keynote speaker, and president of the Emmy Award-winning Narrative Television Network in Tulsa, Oklahoma.
@@ -2237,7 +2252,7 @@ Profiles:
 
 ## Conclusion {#conclusion}
 
-Read together, the 148 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
+Read together, the 149 entries make one point plainly: blind and low-vision people are producing finished, publicly available work — books you can buy, software you can install, and series you can subscribe to — not prototypes or promises. Every item here was included only after a working link to the actual work could be confirmed, so the directory doubles as a set of live starting points rather than a list of names.
 
 The 17 people who appear in more than one category are worth noticing. The lines between author, developer, and presenter are thin: someone who builds a screen-reader tool often documents it in a book and demonstrates it on a podcast. Assistive technology in particular runs through all three categories at once, as subject, as tool, and as the thing being taught.
 
